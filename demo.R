@@ -18,3 +18,4 @@ main <- function(opt) {
   print(typeof(opt))
 }
 
+main()
