@@ -1,5 +1,5 @@
-# author: Tiffany Timbers
-# date: 2020-01-15
+# author: Wenxin Xiang
+# date: 2022-02-22
 
 """This script prints out docopt args.
 Usage: demo.py <arg1> --arg2=<arg2> [--arg3=<arg3>] [--arg4=<arg4>]
@@ -17,3 +17,6 @@ opt = docopt(__doc__)
 def main(opt):
   print(opt)
   print(type(opt))
+
+if __name__ == "__main__":
+  main()
