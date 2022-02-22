@@ -1,5 +1,5 @@
-# author: Tiffany Timbers
-# date: 2020-01-15
+# author: Wenxin Xiang
+# date: 2022-02-22
 
 "This script prints out docopt args.
 Usage: demo.R <arg1> --arg2=<arg2> [--arg3=<arg3>] [--arg4=<arg4>]
